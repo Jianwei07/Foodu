@@ -29,4 +29,4 @@ We're actively working on the following improvements for the website:
 
 We welcome contributions! If you're interested in helping us improve the website, feel free to fork this repository, make your changes, and submit a pull request. Let's make this food blog even more amazing together.
 
-## Thank you for checking out our Food Channel website!
+## *Thank you for checking out our Food Channel website!*
